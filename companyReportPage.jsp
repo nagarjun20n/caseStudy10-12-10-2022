@@ -19,7 +19,7 @@
 	<br/><br/>
 	Company Name:${company.companyName}
 	<br/><br/>
-	Share Price:${course.sharePrice}
+	Share Price:${company.sharePrice}
 	
 <br/><br/>
 <a href="/index">Return</a>
